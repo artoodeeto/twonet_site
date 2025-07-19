@@ -45,7 +45,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <body className={inter.className}>
-        <ThemeProvider attribute="class">
+        <ThemeProvider defaultTheme="light" attribute="class">
           <Navbar />
           {/* <div>{children}</div> */}
           <Hero />
