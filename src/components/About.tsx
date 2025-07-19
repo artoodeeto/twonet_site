@@ -28,17 +28,17 @@ const About = () => {
             About Heart & Home Care
           </h6>
           <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">
-            Founded on the principles of dignity, empathy, and reliability, our
+            {`Founded on the principles of dignity, empathy, and reliability, our
             mission is to help our clients maintain independence and peace of
             mind while receiving the care they need. Whether it's help with
             daily tasks, companionship, or respite for family caregivers, we're
-            here to make life easier and brighter.
+            here to make life easier and brighter.`}
           </p>
           <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">
-            Our caregivers are more than just professionals—they're trusted
+            {`Our caregivers are more than just professionals—they're trusted
             companions, trained to deliver care with heart. Each team member is
             carefully selected, background-checked, and dedicated to treating
-            clients like family.
+            clients like family.`}
           </p>
         </div>
       </div>

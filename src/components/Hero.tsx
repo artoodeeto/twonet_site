@@ -12,12 +12,12 @@ export const Hero = () => {
               Heart & Home Care
             </h1>
             <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">
-              At Heart & Home Care we believe that everyone deserves to feel
+              {`At Heart & Home Care we believe that everyone deserves to feel
               safe, respected, and cared for—especially in the comfort of their
               own home. That's why we provide compassionate, high-quality non-
               medical home care services designed to support seniors,
               individuals with disabilities, and those recovering from illness
-              or surgery.
+              or surgery.`}
             </p>
           </div>
         </div>

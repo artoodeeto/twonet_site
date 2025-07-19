@@ -13,9 +13,9 @@ const Services = () => {
             Services Offered
           </h1>
           <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">
-            At Heart & Home Care we re more than caregivers — we're companions,
+            {` At Heart & Home Care we re more than caregivers — we're companions,
             advocates, and trusted support systems for the people you love most.
-            Here's what sets us apart:
+            Here's what sets us apart:`}
           </p>
           <div className="w-full mt-5 flex flex-wrap">
             {benefitOne.bullets.map((item, index) => (
