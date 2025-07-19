@@ -8,7 +8,7 @@ const Contact = () => {
   return (
     <Container className="flex flex-wrap">
       <div
-        id="about"
+        id="contact"
         className="flex items-center justify-center w-full lg:w-1/2"
       >
         <div className="">
