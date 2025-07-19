@@ -5,6 +5,8 @@ import {
   DevicePhoneMobileIcon,
   AdjustmentsHorizontalIcon,
   SunIcon,
+  GiftIcon,
+  HeartIcon,
 } from "@heroicons/react/24/solid";
 
 import benefitOneImg from "../../public/img/benefit-one.png";
@@ -23,17 +25,17 @@ const benefitOne = {
     {
       title: "Companionship Services",
       desc: "Description here for companionship services.",
-      icon: <CursorArrowRaysIcon />,
+      icon: <GiftIcon />,
     },
     {
       title: "Daily Living Support",
       desc: "Description here for daily living support.",
-      icon: <CursorArrowRaysIcon />,
+      icon: <SunIcon />,
     },
     {
       title: "Specialized Support (non clinical)",
       desc: "Description here for specialized support (non clinical).",
-      icon: <CursorArrowRaysIcon />,
+      icon: <HeartIcon />,
     },
   ],
 };
